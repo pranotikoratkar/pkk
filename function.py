@@ -4,3 +4,4 @@ def cals_avg(a,b):
     return(cals_avg)
 
 print(cals_avg(2,3))
+
